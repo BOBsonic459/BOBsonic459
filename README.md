@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Je m'appelle bob
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**BOBsonic459/BOBsonic459** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis intéréssé par tout ce qui concerne le NodeJS, plus précisément les modules express et electron ainsi que minecraft-launcher-core, après le java m'attire un peu moins (j'aime pas beaucoup la syntaxe en java), je fais surtout des launcher (NodeJS) mais il arrive aussi de faire mods minecraft uniquement en 1.7.10 & 1.12.2,
 
-Here are some ideas to get you started:
+Skills: NodeJS / JS / HTML / CSS / Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Je travaille actuellement sur ChibiEditor, Valarium, Arkadium, UwU Updater, UwU Mc Mod Injector, PalaConverter-HS 
+- 🌱 J'apprends actuellement NodeJS 
+- 📫  Me joindre: [P/C]Bobsonic459#7377 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BOBsonic459)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bobsonic.com) 
