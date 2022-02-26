@@ -4,7 +4,7 @@ Je suis intéréssé par tout ce qui concerne le NodeJS, plus précisément les 
 
 Je métrise: NodeJS / JS / HTML / CSS / Java
 
-- 🔭 Je travaille actuellement sur ChibiEditor, Valarium, Arkadium, UwU Updater, UwU Mc Mod Injector, PalaConverter-HS 
+- 🔭 Je travaille actuellement sur ChibiEditor, Valarium, Arkadium, UwU Updater, UwU Mc Mod Injector, PalaConverter-JS 
 - 🌱 J'apprends actuellement NodeJS 
 - 📫 Me joindre: Discord : [P/C]Bobsonic459#7377, Mail : bobsonic576@gmail.com
 
