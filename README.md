@@ -6,7 +6,6 @@ Je métrise: NodeJS / JS / HTML / CSS / Java
 
 - 🔭 Je travaille actuellement sur ChibiEditor, Valarium, Arkadium, UwU Updater, UwU Mc Mod Injector, PalaConverter-JS 
 - 🌱 J'apprends actuellement NodeJS 
-- 📫 Me joindre: Discord : [P/C]Bobsonic459#7377, Mail : bobsonic576@gmail.com
+- 📫 Me joindre: Discord : [P/C]Bobsonic459#7377, Serveur Discord : https://discord.gg/n85wHf94Hx, Mail : bobsonic576@gmail.com
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BOBsonic459)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bobsonic.com) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BOBsonic459)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bobsonic.com)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord server' height='40'>](https://discord.gg/n85wHf94Hx) 
