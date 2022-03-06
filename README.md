@@ -1,6 +1,6 @@
 ## Hi there 👋! Je m'appelle Bob.
 
-#### Je suis intéressé par tout ce qui concerne le NodeJS, plus précisément les modules Express et Electron ainsi que minecraft-launcher-core, après le Java m'attire un peu moins (j'aime pas beaucoup la syntaxe en Java), je fais surtout des launchers (NodeJS) mais il m'arrive également de faire mods M%inecraft uniquement en 1.7.10 & 1.12.2,
+#### Je suis intéressé par tout ce qui concerne le NodeJS, plus précisément les modules Express et Electron ainsi que minecraft-launcher-core, après le Java m'attire un peu moins (j'aime pas beaucoup la syntaxe en Java), je fais surtout des launchers (NodeJS) mais il m'arrive également de faire mods Minecraft uniquement en 1.7.10 & 1.12.2,
 
 ### Je maîtrise : NodeJS / JS / HTML / CSS / Java
 
