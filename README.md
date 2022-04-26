@@ -1,13 +1,13 @@
 ## Hi there 👋! Je m'appelle Bob.
 
-#### Je suis intéressé par tout ce qui concerne le NodeJS, plus précisément les modules Express et Electron ainsi que minecraft-launcher-core, après le Java m'attire un peu moins (j'aime pas beaucoup la syntaxe en Java), je fais surtout des launchers (NodeJS) mais il m'arrive également de faire mods M%inecraft uniquement en 1.7.10 & 1.12.2,
+#### Je suis intéressé par tout ce qui concerne le NodeJS, plus précisément les modules Express et Electron ainsi que minecraft-launcher-core, après le Java m'attire un peu moins (j'aime pas beaucoup la syntaxe en Java), je fais surtout des launchers (NodeJS) mais il m'arrive également de faire mods Minecraft uniquement en 1.7.10 & 1.12.2,
 
 ### Je maîtrise : NodeJS / JS / HTML / CSS / Java
 
 - 🔭 Je travaille actuellement sur ChibiEditor, Arkadium, UwU Updater, UwU MC Mod Injector, PalaConverter-JS 
 - 🌱 J'apprends actuellement le NodeJS 
 - 📫 Me contacter :
-  #### Discord : [P/C]Bobsonic459#7377
+  #### Discord : ``♧ - [P/C]Bobsonic459#6666££``
   #### Serveur Discord : https://discord.gg/n85wHf94Hx
   #### Mail : bobsonic576@gmail.com
 
