@@ -4,7 +4,7 @@
 
 ### Je maîtrise : NodeJS / JS / HTML / CSS / Java
 
-- 🔭 Je travaille actuellement sur ChibiEditor, Valarium, Arkadium, UwU Updater, UwU MC Mod Injector, PalaConverter-JS 
+- 🔭 Je travaille actuellement sur ChibiEditor, Arkadium, UwU Updater, UwU MC Mod Injector, PalaConverter-JS 
 - 🌱 J'apprends actuellement le NodeJS 
 - 📫 Me contacter :
   #### Discord : [P/C]Bobsonic459#7377
