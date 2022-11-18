@@ -7,7 +7,7 @@
 - 🔭 Je travaille actuellement sur ChibiEditor, Arkadium, UwU Updater, UwU MC Mod Injector, PalaConverter-JS 
 - 🌱 J'apprends actuellement le NodeJS 
 - 📫 Me contacter :
-  #### Discord : ``♧ - [L/N]Bobsonic459 - (C-137)#7422``
+  #### Discord : ``♧ - [L/N]Bobsonic459#7422``
   #### Serveur Discord : https://discord.gg/n85wHf94Hx
   #### Mail : bobsonic576@gmail.com
 
